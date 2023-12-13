@@ -40,7 +40,7 @@ body {
   font-family: 'Arial', sans-serif;
   font-size: 24px; 
   font-weight: bold;
-  color: #555; 
+  color: #fff; 
 
 }
 
@@ -497,11 +497,13 @@ section {
 .projcard-title {
   font-family: 'Voces', 'Open Sans', arial, sans-serif;
   font-size: 24px;
+  text-align: center;
 }
 
 .projcard-subtitle {
   font-family: 'Voces', 'Open Sans', arial, sans-serif;
   color: #888;
+  text-align: center;
 }
 
 .projcard-bar {
@@ -557,6 +559,7 @@ section {
   font-weight: 600;
   transition: all .45s ease;
   text-align: center;
+  margin-bottom:5px;
 }
 .game{
   background-color: #61A3BA;
